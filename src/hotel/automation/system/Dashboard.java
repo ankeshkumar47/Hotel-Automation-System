@@ -63,7 +63,7 @@ public class Dashboard extends JFrame implements ActionListener {
         l3.setFont(new Font("Tahoma", Font.PLAIN, 25));
         l1.add(l3);
         
-        JLabel l4 = new JLabel("© Developed and Maintained By ANKESH KUMAR,ANKESH OJHA,ASHUTOSH BHALOTIA 2020");
+        JLabel l4 = new JLabel("© Developed and Maintained By ANKESH KUMAR 2020");
         l4.setBounds(350, 650, 1300, 50);
         l4.setForeground(Color.WHITE);
         l4.setFont(new Font("Tahoma", Font.PLAIN, 16));
