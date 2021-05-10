@@ -1,8 +1,3 @@
-
-All the .class files and icons used in this build are present in (build->classes->hotel->automation->system)
-
-And the source code of the project(.java files) is present in  (src->classes->hotel->automation->system)
-
 Run the following SQL queries in the MySQL 8.0 Command Line Client to setup the database used in the project
 
 create database projecthms;
